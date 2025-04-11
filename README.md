@@ -63,11 +63,13 @@ assign b=(din[2]|din[3]|din[6]|din[7]);
 assign c=(din[1]|din[3]|din[5]|din[7]);
 endmodule
 ```
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+## RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
+
 ![Screenshot 2025-03-28 134731](https://github.com/user-attachments/assets/fe489d26-e4f7-47e4-a779-7716c73f523f)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+## TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
 
+![Screenshot 2025-04-11 133711](https://github.com/user-attachments/assets/89f4f227-0551-472b-a656-4f53b7bd7fb7)
 
 **RESULTS**
 
